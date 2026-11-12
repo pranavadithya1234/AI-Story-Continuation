@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+model_artifacts/
+model-store/
+*.mar
+.env
+.DS_Store
+model.tar.gz
+sagemaker/deployment_info.json
+extracted_assignment.txt
